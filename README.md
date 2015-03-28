@@ -1,2 +1,2 @@
 # Node-School
-Learning Node.js
+My solutions to node school excercise
