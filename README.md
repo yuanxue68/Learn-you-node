@@ -1,2 +1,2 @@
 # Node-School
-Learning Node.js/Express  
+Learning Node.js
