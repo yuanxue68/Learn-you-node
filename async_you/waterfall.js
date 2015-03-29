@@ -23,11 +23,11 @@ async.waterfall([
 				cb(err);
 			})
 		})
-	},
+	}],
 	function(err,data){
 		if(err){
 			return console.log(err);
 		}
-		console.log(result);
+		console.log(data);
 	}
-])
+)
